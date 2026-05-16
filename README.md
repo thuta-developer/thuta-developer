@@ -35,31 +35,14 @@
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
+# Learning..:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=banban2007&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banban2007&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=banban2007&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=banban2007&theme=tokyo-night"/>
+[![](https://komarev.com/ghpvc/?username=thuta-developer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -67,13 +50,6 @@
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-# 🌐 Connect With Me
-
-- Telegram → https://t.me/@banban6818
-- TikTok → https://www.tiktok.com/@heinhtoo45?_r=1&_t=ZS-94SZr7xyD0m
-- Mail -> thuta.developer@gmail.com
 
 ---
 
